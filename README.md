@@ -8,10 +8,16 @@ Also i found their documentation to be hard to understand and does not provide a
 
 Do whatever you want with the SDK. I'm currently playing around with it.
 
-<h3>Examples Coming Soon!</h5>
+<h5>Examples Coming Soon!</h5>
 
-<h6>Todo</h5>
+<h6>Todo</h6>
 <ul>
   <li>Documentation</li>
   <li>Examples</li>
+</ul>
+
+<h6>Examples Todo list</h6>
+<ul>
+  <li>CrossFade ghosting</li>
+  <li>Arx App</li>
 </ul>
