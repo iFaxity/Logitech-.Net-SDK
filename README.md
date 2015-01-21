@@ -6,6 +6,14 @@ This is a full unofficial simplified version of the Logitech SDK available for .
 There is an official SDK available on the Logitech website. But it only provides .Net programmers through C++ DllImport.
 Also i found their documentation to be hard to understand and does not provide any error checking.
 
+The SDK Contains
+
+<h6>Todo</h6>
+<ol>
+  <li>SDK for Arx Control</li>
+  <li>SDK for Logitech Keyboards Lighting. (only tested on G910).</li>
+</ol>
+
 Do whatever you want with the SDK. I'm currently playing around with it.
 
 <h5>Examples Coming Soon!</h5>
